@@ -12,4 +12,6 @@ UAC bypass with Direct call to RAiLaunchAdminProcess and mmc.
 References: 
 
 https://www.youtube.com/watch?v=D-F5RxZ_yXc
+
+
 https://www.rump.beer/2017/slides/from_alpc_to_uac_bypass.pdf
